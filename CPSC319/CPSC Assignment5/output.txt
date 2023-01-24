@@ -1,0 +1,4 @@
+Average number of reads per record: 3.31277767904745
+Load Factor: 70.86009318725601%
+Hash Efficiency: 21.389933177656218
+The size of Longest Search Chain:68

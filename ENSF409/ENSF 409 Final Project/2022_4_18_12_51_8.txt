@@ -1,0 +1,45 @@
+Group 24 Food Bank
+Order Form
+
+Name: 
+Date: 
+
+Original Request
+Hamper 1: 1 Adult Male, 2 Adult Female, 2 Child Over 8, 2 Child Under 8
+Hamper 2: 1 Adult Male, 2 Adult Female, 2 Child Over 8, 2 Child Under 8
+
+Hamper 1 Items:
+96		Almonds, large bag
+114		Apple juice, 1 kg
+5		Apple, dozen
+102		Black beans, 1 kg
+163		Bluegreen algae powder, 100 g
+65		Boba green tea, 4 cans
+76		Celeriac, 1 kg
+136		Cocktail shrimp, package
+106		Creamed spinach
+123		Dried figs, 500 g
+17		Eggs, dozen
+128		Onions, net of 10
+14		Orange, dozen
+154		Pumpkin, small
+1		Tomato Sauce, jar
+142		Whey powder, large jar
+
+Hamper 2 Items:
+28		Bananas, bunch
+101		Beyond Breakfast sausage
+9		Broccoli, 3 bunches
+49		Cauliflower, 2 heads
+80		Chickpeas, 1 kg
+119		Cocktail fruits, tin
+58		Greek yogurt, plain, 1 kg
+156		Hominy, canned, 1 kg
+81		Hummus
+73		Manioc, 1 pound
+143		Oranges, bag
+131		Roasted seaweed, 250 g
+54		Soy protein, 1 kg
+46		Tomatoes, 1 kg
+77		Turnip, 1 pound
+
